@@ -11,3 +11,6 @@ OBS.: Os lancamentos estao na branch "master"
   
 3ª Lancamento 07/11
   Projeto: UML da proposta de desenvolvimento do jogo. 
+
+4ª Lancamento 19/12
+  Projeto: Jogo Tactics Power. 
