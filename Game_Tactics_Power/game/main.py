@@ -219,8 +219,6 @@ class DamageText(pygame.sprite.Sprite):
 		if self.counter > 30:
 			self.kill()
 
-
-
 damage_text_group = pygame.sprite.Group()
 
 
@@ -431,7 +429,6 @@ def game():
             else:
                 game_over = -1
 
-
             #acoes do bot
             for count, bandit in enumerate(bandit_list):
                 if current_fighter == 2 + count:
@@ -505,9 +502,6 @@ def game():
                 clicked = False
 
         pygame.display.update()
-
-#    pygame.quit()
-
 
 # Função para o menu
 def main_menu():
