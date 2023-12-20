@@ -14,5 +14,6 @@ OBS.: Os lancamentos estao na branch "master"
 
 4ª Lancamento 19/12
   Projeto: Jogo Tactics Power. 
-  Link: Vídeo
+  
+  Link do vídeo: https://youtu.be/cGRv_Twh6Tg
 
