@@ -1,6 +1,6 @@
 # Lancamentos dos projetos da disciplina de OO
-Integrantes: Felipe das Neves Freire Mat.: 202046102
-             Mateus Cavalcante de Sousa Mat.: 222006991
+Integrantes: Felipe das Neves Freire Mat.: 202046102;
+             Mateus Cavalcante de Sousa Mat.: 222006991;
              Henrique Souza Lavarini Mat.: 211061888
 
 OBS.: Os lancamentos estao na branch "master"
